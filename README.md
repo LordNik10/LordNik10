@@ -19,7 +19,7 @@ Mi occupo di progettare interfacce utente scalabili e testabili, con un forte fo
 ### 📊 GitHub Insights
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LordNik10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LordNik10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordNik10&layout=compact&theme=tokyonight&hide_progress=true" />
 </p>
 
